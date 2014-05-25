@@ -39,13 +39,13 @@ body {
 
 h1 {
   color:#232323;
-  margin:36px 0 10px 100px;	
+  margin:36px 0 10px;	
 }
 
 
 h2, h3, h4, h5, h6 {
   color:#232323;
-  margin:36px 0 10px;
+  margin:36px 0 10px 100px;
 }
 
 p, ul, ol, table, dl {
