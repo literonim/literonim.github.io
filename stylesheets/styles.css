@@ -173,7 +173,7 @@ code, pre {
 }
 
 pre {
-	padding: 4px 12px;
+	padding: 4px 12px 0 100px;
   background: #FDFEFB;
   border-radius:4px;
   border:1px solid #D7D8C8;
