@@ -1,0 +1,35 @@
+.menu_simple ul {
+    margin-top: 190px;
+    margin-left: 20px;
+    width:145px;
+    list-style-type: none;
+}
+
+.menu_simple ul li  {
+    font-family: 'Arvo', Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    color: white;
+    text-align: left;
+    padding-top: 5px;
+    background-color: #171717;
+    display:block;
+}
+
+.menu_simple ul li a {
+    font-family: 'Arvo', Helvetica, Arial, sans-serif;
+    text-align: left;
+    text-decoration: none;
+    color: white; 
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display:block;
+}
+ 
+.menu_simple ul li a:visited {
+    color: white;
+}
+ 
+.menu_simple ul li a:hover, .menu_simple ul li .current {
+    color: white;
+    background-color: #AF0011;
+}
