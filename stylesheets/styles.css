@@ -173,14 +173,14 @@ code, pre {
 }
 
 pre {
-  padding: 4px 12px 0 100px;
+  padding: 4px 12px 0 10px;
   background: #FDFEFB;
   border-radius:4px;
   border:1px solid #D7D8C8;
   overflow: auto;
   overflow-y: hidden;
 	margin-bottom: 32px;
-	margin-left: 90px;
+	margin-left: 100px;
 }
 
 
