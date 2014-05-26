@@ -48,7 +48,7 @@ h2, h3, h4, h5, h6 {
 }
 
 p, ul, ol, table, dl {
-  margin:24px 0 10px 100px;
+  margin:0 0 10px 100px;
   text-align: justify;
 }
 
@@ -179,7 +179,7 @@ pre {
   border:1px solid #D7D8C8;
   overflow: auto;
   overflow-y: hidden;
-	margin-bottom: 32px;
+	margin-bottom: 10px;
 	margin-left: 100px;
 }
 
@@ -426,4 +426,3 @@ footer {
     color:#444;
   }
 }
-
