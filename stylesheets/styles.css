@@ -51,6 +51,11 @@ p, ul, ol, table, dl {
   margin:0 0 10px 100px;
 }
 
+p.wyjustowanie {
+  margin:0 0 10px 100px;
+  text-align: justify;
+}
+
 h1, h2, h3 {
 	font-family: Arvo, Monaco, serif;
   line-height:1.3;
