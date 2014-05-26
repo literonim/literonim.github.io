@@ -3,6 +3,7 @@
     margin-left: 20px;
     width:145px;
     list-style-type: none;
+    position:fixed;
 }
 
 .menu_simple ul li  {
